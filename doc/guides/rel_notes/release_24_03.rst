@@ -109,6 +109,8 @@ New Features
     and instead updated `imissed` stat with its value.
   * Added support for sub-optimal configuration notifications from the device.
   * Added `normal_llq_hdr` devarg that enforce normal llq header policy.
+  * Added support for LLQ header size recommendation from the device.
+  * Allowed large LLQ with 1024 entries when the device supports enlarged memory BAR.
 
 * **Updated Atomic Rules' Arkville driver.**
 
